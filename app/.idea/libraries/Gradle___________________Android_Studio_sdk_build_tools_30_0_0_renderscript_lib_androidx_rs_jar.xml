@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: ./../../../../../Android Studio/sdk/build-tools/30.0.0/renderscript/lib/androidx-rs.jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../../Android Studio/Sdk/build-tools/30.0.0/renderscript/lib/androidx-rs.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
