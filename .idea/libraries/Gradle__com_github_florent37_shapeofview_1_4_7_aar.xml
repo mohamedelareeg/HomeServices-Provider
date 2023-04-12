@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.florent37:shapeofview:1.4.7@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/51551e6bc361d9675e4ffecdfbb5240c/transformed/jetified-shapeofview-1.4.7/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/51551e6bc361d9675e4ffecdfbb5240c/transformed/jetified-shapeofview-1.4.7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/51551e6bc361d9675e4ffecdfbb5240c/transformed/jetified-shapeofview-1.4.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/51551e6bc361d9675e4ffecdfbb5240c/transformed/jetified-shapeofview-1.4.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.florent37/shapeofview/1.4.7/a7f6f6c228d4bd367c93c9203e21b1ecd474ca74/shapeofview-1.4.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

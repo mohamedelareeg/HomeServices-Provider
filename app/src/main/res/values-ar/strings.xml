@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">الخدمات المنزلية</string>
+    <string name="api_key">AIzaSyCO0w_ttHX8NhEZArythjJuiUY1ouN2sVI</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="press_once_again_to_exit">اضغط مرة اخرى للخروج من التطبيق</string>
+    <string name="ok">حسنا</string>
+    <string name="loading">جارى التحميل</string>
+    <string name="email">البريد الالكترونى</string>
+    <string name="password">كلمة المرور</string>
+    <string name="remember_me">تذكرنى</string>
+    <string name="still_don_t_have_account">ليس لديك حساب ؟</string>
+    <string name="sign_up">تسجيل جديد</string>
+    <string name="password_should_longer_than_six">كلمة المرور يجب الا تقل عن  6 احرف</string>
+    <string name="enter_valid_email">برجاء ادخال بريد الكترونى صالح</string>
+    <string name="forgot_password">نسيت كلمة المرور ؟</string>
+
+</resources>
